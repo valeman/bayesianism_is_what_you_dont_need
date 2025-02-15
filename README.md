@@ -5,7 +5,8 @@ If you see credible evidence that certain papers and academics deliberately excl
 
 Every quality paper and entry that qualifies for entry to bayesianism_is_what_you_dont_need will be awarded a discount for my course and after a certain number of submissions that are accepted your place is free!
 
-![Applied Conformal Prediction course](IMG_6711.png)
+![Applied Conformal Prediction course](IMG_6711.jpeg)
+
 
 ## [Table of Contents]() 
 
@@ -30,4 +31,4 @@ Every quality paper and entry that qualifies for entry to bayesianism_is_what_yo
 2. [Bayes is Out-Dated, and You’re Doing it Wrong](https://www.lesswrong.com/posts/oqxYzDrwMAdQhCwHL/bayes-is-out-dated-and-you-re-doing-it-wrong)
 
 ## Academic censoring and oppressing conformal prediction
-1. Peter Flach 
+1. XXX
