@@ -23,5 +23,4 @@ The best repository showing why bayesianism is a complete misnomer.
 1. [Praxis and Ideology in Bayesian Data Analysis](http://bactra.org/weblog/664.html) by Cosma Shalizi (2010)
 2. [Bayes is Out-Dated, and You’re Doing it Wrong](https://www.lesswrong.com/posts/oqxYzDrwMAdQhCwHL/bayes-is-out-dated-and-you-re-doing-it-wrong)
 
-## Academic censoring and oppressing conformal prediction
-1. XXX
+
