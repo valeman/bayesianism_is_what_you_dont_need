@@ -14,7 +14,8 @@ The best repository showing why bayesianism is a complete misnomer.
 
 ## Papers
 1. [The typicalness framework: a comparison with the Bayesian approach](https://core.ac.uk/download/pdf/1503425.pdf) (2001)
-2. [On the Brittleness of Bayesian Inference](https://arxiv.org/abs/1308.6306) (2015) 
+2. [On the Brittleness of Bayesian Inference](https://arxiv.org/abs/1308.6306) (2015)
+3. [Position: There Is No Free Bayesian Uncertainty Quantification](https://arxiv.org/abs/2506.03670) (2025)
 
 ## Videos
 1. [Larry Wasserman - Problems With Bayesian Causal Inference](https://www.youtube.com/watch?v=sZyyaNdvfto) (2022)
